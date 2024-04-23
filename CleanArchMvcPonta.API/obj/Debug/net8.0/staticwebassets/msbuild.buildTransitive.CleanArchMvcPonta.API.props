@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CleanArchMvcPonta.API.props" />
+</Project>

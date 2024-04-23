@@ -1,0 +1,17 @@
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\bin\Debug\net8.0\CleanArchMvcPonta.Infra.Data.deps.json
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\bin\Debug\net8.0\CleanArchMvcPonta.Infra.Data.runtimeconfig.json
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\bin\Debug\net8.0\CleanArchMvcPonta.Infra.Data.dll
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\bin\Debug\net8.0\CleanArchMvcPonta.Infra.Data.pdb
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\bin\Debug\net8.0\CleanArchMvcPonta.Domain.dll
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\bin\Debug\net8.0\CleanArchMvcPonta.Domain.pdb
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.AssemblyInfo.cs
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArc.5BDF9E7D.Up2Date
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.dll
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\refint\CleanArchMvcPonta.Infra.Data.dll
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.pdb
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\CleanArchMvcPonta.Infra.Data.genruntimeconfig.cache
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Data\obj\Debug\net8.0\ref\CleanArchMvcPonta.Infra.Data.dll
