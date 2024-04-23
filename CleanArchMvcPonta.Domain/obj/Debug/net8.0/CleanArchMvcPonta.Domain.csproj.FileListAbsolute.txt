@@ -1,0 +1,11 @@
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\bin\Debug\net8.0\CleanArchMvcPonta.Domain.deps.json
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\bin\Debug\net8.0\CleanArchMvcPonta.Domain.dll
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\bin\Debug\net8.0\CleanArchMvcPonta.Domain.pdb
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\CleanArchMvcPonta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\CleanArchMvcPonta.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\CleanArchMvcPonta.Domain.AssemblyInfo.cs
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\CleanArchMvcPonta.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\CleanArchMvcPonta.Domain.dll
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\refint\CleanArchMvcPonta.Domain.dll
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\CleanArchMvcPonta.Domain.pdb
+C:\Projetos\Ponta\CleanArchMvcPonta\CleanArchMvcPonta.Domain\obj\Debug\net8.0\ref\CleanArchMvcPonta.Domain.dll
